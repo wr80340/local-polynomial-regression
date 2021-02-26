@@ -2,7 +2,7 @@
 ## introduction
 A function to fit local polynomial regression
 ## benefit
-This function provides estimated beta
+This function provides estimated beta and fitted line
 ## time consumption comparison
 package|compute time
 ---|---
